@@ -199,6 +199,6 @@ $ echo "Open to: Internships · Freelance · High-Impact Collaborations"
 
 *"It's all on us — follow or be followed."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=MR-STARK87&color=58a6ff&style=flat-square&label=profile+views)
+
 
 </div>
