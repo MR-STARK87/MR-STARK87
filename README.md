@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-███████╗ █████╗ ██╗██████╗     ███████╗    ██╗   ██╗ █████╗ ██╗██████╗ 
-╚══███╔╝██╔══██╗██║██╔══██╗    ╚══███╔╝    ╚██╗ ██╔╝██╔══██╗██║██╔══██╗
-  ███╔╝ ███████║██║██║  ██║      ███╔╝      ╚████╔╝ ███████║██║██║  ██║
- ███╔╝  ██╔══██║██║██║  ██║     ███╔╝        ╚██╔╝  ██╔══██║██║██║  ██║
-███████╗██║  ██║██║██████╔╝    ███████╗       ██║   ██║  ██║██║██████╔╝
-╚══════╝╚═╝  ╚═╝╚═╝╚═════╝     ╚══════╝       ╚═╝   ╚═╝  ╚═╝╚═╝╚═════╝ 
+ ███████╗██╗   ██╗███████╗██████╗     ███████╗ █████╗ ██╗██████╗      █████╗ ██╗     ██╗
+ ██╔════╝╚██╗ ██╔╝██╔════╝██╔══██╗    ╚══███╔╝██╔══██╗██║██╔══██╗    ██╔══██╗██║     ██║
+ ███████╗ ╚████╔╝ █████╗  ██║  ██║      ███╔╝ ███████║██║██║  ██║    ███████║██║     ██║
+ ╚════██║  ╚██╔╝  ██╔══╝  ██║  ██║     ███╔╝  ██╔══██║██║██║  ██║    ██╔══██║██║     ██║
+ ███████║   ██║   ███████╗██████╔╝    ███████╗██║  ██║██║██████╔╝    ██║  ██║███████╗██║
+ ╚══════╝   ╚═╝   ╚══════╝╚═════╝     ╚══════╝╚═╝  ╚═╝╚═╝╚═════╝     ╚═╝  ╚═╝╚══════╝╚═╝
 ```
 
 ### `> I build systems — not just apps.`
@@ -170,15 +170,15 @@ A stateful, full-stack AI learning platform that closes the loop between notes, 
 
 ## `cat ./stats`
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MR-STARK87&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-STARK87&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MR-STARK87&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-
-</div>
+```
+┌──────────────────────────────────────────────────────────┐
+│  📊 GitHub Activity                                      │
+│                                                          │
+│  Total Contributions  ██████████████████░░░░  202        │
+│  Longest Streak       ████████░░░░░░░░░░░░░░   13 days   │
+│  Active Since         Aug 2024 → Present                 │
+└──────────────────────────────────────────────────────────┘
+```
 
 ---
 
