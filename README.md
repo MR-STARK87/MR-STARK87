@@ -172,7 +172,7 @@ A stateful, full-stack AI learning platform that closes the loop between notes, 
 
 ```
 ┌──────────────────────────────────────────────────────────┐
-│  📊 GitHub Activity                                      │
+│     GitHub Activity                                      │
 │                                                          │
 │  Total Contributions  ██████████████████░░░░  202        │
 │  Longest Streak       ████████░░░░░░░░░░░░░░   13 days   │
@@ -180,7 +180,6 @@ A stateful, full-stack AI learning platform that closes the loop between notes, 
 └──────────────────────────────────────────────────────────┘
 
 
-make a perfect rectangle
 ```
 
 ---
