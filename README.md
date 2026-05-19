@@ -196,9 +196,9 @@ A stateful, full-stack AI learning platform that closes the loop between notes, 
 ┌──────────────────────────────────────────────────────────────────┐
 │     GitHub Activity                              [ May 2026 ]    │
 │                                                                  │
-│  Repositories         ████████████████████████  18              │
-│  Stars Earned         ████████░░░░░░░░░░░░░░░░  19              │
-│  Active Since         Aug 2024 → Present        ~21 months      │
+│  Repositories         ████████████████████████  18               │
+│  Stars Earned         ████████░░░░░░░░░░░░░░░░  19               │
+│  Active Since         Aug 2024 → Present        ~21 months       │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
