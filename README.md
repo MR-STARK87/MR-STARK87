@@ -204,9 +204,6 @@ A stateful, full-stack AI learning platform that closes the loop between notes, 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MR-STARK87&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00FFB3&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-STARK87&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=c9d1d9)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MR-STARK87&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3)
 
@@ -235,7 +232,5 @@ $ echo "Open to: Internships · Freelance · High-Impact Collaborations"
 ║   "It's all on us — follow or be followed."          ║
 ╚══════════════════════════════════════════════════════╝
 ```
-
-![Profile Views](https://komarev.com/ghpvc/?username=MR-STARK87&color=00FFB3&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
